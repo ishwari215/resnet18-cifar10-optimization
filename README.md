@@ -1,4 +1,4 @@
-## 🚀 Project Overview: Evolutionary Optimization of Neural Networks
+## 🚀 Enhanced Image Classification Through Evolutionary Optimization of Residual Networks
 
 This project evaluates multiple optimization techniques—**Gradient Descent (GD)**, **Particle Swarm Optimization (PSO)**, **Covariance Matrix Adaptation Evolution Strategy (CMA-ES)**, and **Non-dominated Sorting Genetic Algorithm II (NSGA-II)**—to enhance image classification accuracy. The study uses a lightweight **ResNet-18** model on the **CIFAR-10** dataset, specifically focusing on optimizing its final layer and addressing deep learning challenges like the vanishing gradient problem and overfitting.
 
